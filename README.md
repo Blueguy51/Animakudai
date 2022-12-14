@@ -1,2 +1,4 @@
 # Animakudai
- Animakudai is anime-card project made by Triquest Team
+ Animakudai is anime list application project made by Triquest Team
+
+API : https://docs.api.jikan.moe/
